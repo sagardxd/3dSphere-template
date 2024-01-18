@@ -4,6 +4,6 @@ terminals:
         'npm install',
         'npm run dev',
     ]
-playground-view: terminal-editor-browser
+playground-view: terminal-editor-browse
 run-button: npm run dev
 browser-link: https://localhost:5173/
